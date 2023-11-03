@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WsProxy": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 12345 --remote 10.10.1.33:3690"
+    }
+  }
+}
